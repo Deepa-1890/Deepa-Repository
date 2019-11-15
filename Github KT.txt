@@ -1,0 +1,33 @@
+Version control system- SVN- sub version control system
+
+Repository and working copy,
+
+
+
+
+
+GITHUb- distributed version control system
+
+flow-
+
+
+wokr code- add- staging area- commmit- Local repository- pull - remote repository.
+
+
+-am- add and commit directly.
+
+git.scm.com
+
+
+no standard form for GIT.
+
+
+Github repositiores - public and private
+
+clone- copy existing any local repositories
+
+
+
+
+
+
